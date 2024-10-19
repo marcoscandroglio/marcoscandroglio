@@ -1,4 +1,24 @@
-### Hi there 👋
+# 👋 Hello! Welcome to My GitHub Profile
+
+I’m a software engineer with a background in architecture, exploring intersections of design, technology, and generative solutions. My current focus is on **web development, generative design software, and machine learning**. Passionate about **algorithmic problem-solving**, I strive to build efficient and elegant solutions that empower creativity and insight.
+
+### 🔧 **What I’m working on:**
+- Building **FutureSpace**: a platform exploring generative architectural planning software and innovative tech solutions.
+- Developing web applications using **TypeScript, React, Next.js**, and **SQL-based backends**.
+- Exploring projects in **NLP** and **data analysis**.
+
+### 🚀 **Interests and Goals:**
+- **Deep Learning** projects in audio analysis and generative design.
+- Crafting scalable **APIs on AWS** to solve business problems.
+- Bridging gaps between **design, data, and development**.
+
+### ✨ **Fun Facts:**
+- Registered architect in NY.
+- Avid **hiker** and lover of **weighted jump rope** workouts.
+- Fascinated by intersections of **mathematics, logic**, and **creativity**.
+
+Feel free to check out my projects or connect for collaboration! 🌟
+
 
 <!--
 **marcoscandroglio/marcoscandroglio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
